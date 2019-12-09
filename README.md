@@ -21,4 +21,7 @@ This is a second year OOM Lab project for IT department IIITA. Visualizes the Di
 ## Built With
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) - The IDE used
-* [Java Fx](https://openjfx.io/) - External Library Used 
+* [Java Fx](https://openjfx.io/) - External Library Used
+
+## Testing 
+You can test the program using given sample inputs in 'testfiles' directory
